@@ -1,0 +1,18 @@
+:root {
+  --color-bg: 255 255 255;
+  --color-text-primary: 37 21 4;
+  --color-text-secondary: 130 72 0;
+  --color-gradient: 150, 115, 99;
+
+  --font-body: "Manrope", sans-serif;
+  --font-heading: "Epilogue", sans-serif;
+  --font-mono: "Anonymous Pro", monospace;
+
+  --size-h1: 60px;
+  --size-subheader: 24px;
+  --size-h2: 20px;
+  --size-h3: 16px;
+  --size-body: 14px;
+  --size-desc: 12px;
+  --size-info: 16px;
+}
